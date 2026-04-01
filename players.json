@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "category": "Batters",
+            "players": [
+                { "id": 1, "name": "Virat Kohli", "basePrice": "20L" },
+                { "id": 2, "name": "Rohit Sharma", "basePrice": "18L" },
+                { "id": 3, "name": "Steve Smith", "basePrice": "19L" },
+                { "id": 4, "name": "Kane Williamson", "basePrice": "18L" },
+                { "id": 5, "name": "David Warner", "basePrice": "17L" },
+                { "id": 6, "name": "Shubman Gill", "basePrice": "14L" },
+                { "id": 7, "name": "KL Rahul", "basePrice": "15L" },
+                { "id": 8, "name": "Faf du Plessis", "basePrice": "16L" },
+                { "id": 9, "name": "Babar Azam", "basePrice": "20L" },
+                { "id": 10, "name": "Joe Root", "basePrice": "17L" },
+                { "id": 11, "name": "Eoin Morgan", "basePrice": "15L" },
+                { "id": 12, "name": "Aaron Finch", "basePrice": "13L" }
+            ]
+        },
+        {
+            "category": "Bowlers",
+            "players": [
+                { "id": 13, "name": "Jasprit Bumrah", "basePrice": "15L" },
+                { "id": 14, "name": "Rashid Khan", "basePrice": "17L" },
+                { "id": 15, "name": "Pat Cummins", "basePrice": "18L" },
+                { "id": 16, "name": "Mitchell Starc", "basePrice": "16L" },
+                { "id": 17, "name": "Trent Boult", "basePrice": "15L" },
+                { "id": 18, "name": "Kagiso Rabada", "basePrice": "16L" },
+                { "id": 19, "name": "Yuzvendra Chahal", "basePrice": "12L" },
+                { "id": 20, "name": "Ravichandran Ashwin", "basePrice": "14L" },
+                { "id": 21, "name": "Shaheen Afridi", "basePrice": "13L" },
+                { "id": 22, "name": "Anrich Nortje", "basePrice": "12L" },
+                { "id": 23, "name": "Adam Zampa", "basePrice": "11L" },
+                { "id": 24, "name": "Imran Tahir", "basePrice": "10L" }
+            ]
+        },
+        {
+            "category": "Allrounders",
+            "players": [
+                { "id": 25, "name": "Ben Stokes", "basePrice": "22L" },
+                { "id":26, "name": "Hardik Pandya", "basePrice": "20L" },
+                { "id": 27, "name": "Andre Russell", "basePrice": "19L" },
+                { "id": 28, "name": "Shakib Al Hasan", "basePrice": "18L" },
+                { "id": 29, "name": "Ravindra Jadeja", "basePrice": "17L" },
+                { "id": 30, "name": "Sam Curran", "basePrice": "16L" },
+                { "id": 31, "name": "Dwayne Bravo", "basePrice": "15L" },
+                { "id": 32, "name": "Marcus Stoinis", "basePrice": "14L" },
+                { "id": 33, "name": "Mitchell Marsh", "basePrice": "13L" },
+                { "id": 34, "name": "Chris Woakes", "basePrice": "12L" },
+                { "id": 35, "name": "Glenn Maxwell", "basePrice": "16L" },
+                { "id": 36, "name": "Jason Holder", "basePrice": "14L" }
+            ]
+        },
+        {
+            "category": "Wicketkeepers",
+            "players": [
+                { "id": 37, "name": "MS Dhoni", "basePrice": "18L" },
+                { "id": 38, "name": "Rishabh Pant", "basePrice": "16L" },
+                { "id": 39, "name": "Jos Buttler", "basePrice": "20L" },
+                { "id": 40, "name": "Quinton de Kock", "basePrice": "18L" },
+                { "id": 41, "name": "Nicholas Pooran", "basePrice": "15L" },
+                { "id": 42, "name": "Sanju Samson", "basePrice": "14L" },
+                { "id": 43, "name": "Jonny Bairstow", "basePrice": "16L" },
+                { "id": 44, "name": "Ishan Kishan", "basePrice": "14L" },
+                { "id": 45, "name": "Tim Seifert", "basePrice": "10L" },
+                { "id": 46, "name": "Heinrich Klaasen", "basePrice": "11L" },
+                { "id": 47, "name": "Dinesh Karthik", "basePrice": "12L" },
+                { "id": 48, "name": "Matthew Wade", "basePrice": "13L" }
+            ]
+        }
+    ]
+}
